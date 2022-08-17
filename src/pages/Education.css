@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.education{
+height: 100vh;
+ width: 100vw;
+ padding: 100px;
+ background-color: rgb(211, 230, 226);
+text-align: left;
+font-size: xx-large;
+letter-spacing: 10px;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
